@@ -1,0 +1,17 @@
+h1 {
+    color: red;
+    font-size: 55px;
+    font-weight: 300;
+    background-color: teal;
+    border: solid yellow 20px;
+    border-radius: 10px;
+  }
+
+
+p{
+    color: blue;
+}
+
+img{
+    border-radius: 100%;
+}

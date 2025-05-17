@@ -1,0 +1,30 @@
+
+h1{
+    color : rgb(255,0,0);
+    font-size: 60px;
+}
+
+button{
+    background-color: steelblue;
+    color: white;
+    border : 2px solid blue;
+    width: 80px;
+    height: 30px;
+    border-radius: 23%;
+}
+
+body{
+    color: #00aa00;
+}
+
+p{
+    text-transform: uppercase;
+    color: purple;
+    font-weight: 500;
+}
+
+.heading{
+color: blue;
+font-size: 30px;
+text-transform: uppercase;
+}
